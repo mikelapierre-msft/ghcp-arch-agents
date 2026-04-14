@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "drawio-mcp-server": {
+      "command": "npx",
+      "args": ["-y", "drawio-mcp-server", "--editor"]
+    }
+  }
+}
